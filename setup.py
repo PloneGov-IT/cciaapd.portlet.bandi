@@ -44,8 +44,8 @@ setup(
     zip_safe=False,
     install_requires=[
         'plone.api',
+        'rer.bandi',
         'setuptools',
-        'z3c.jbot',
     ],
     extras_require={
         'test': [
