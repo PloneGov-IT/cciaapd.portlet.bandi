@@ -3,28 +3,23 @@
    This text does not appear on pypi or github. It is a comment.
 
 ==============================================================================
-cciaapd.portlet.bandi
+CCIAAPD portlet bandi
 ==============================================================================
 
-Tell me what your product does
+An additional portlet for `rer.bandi`__.
 
-Features
---------
+__ https://github.com/PloneGov-IT/rer.bandi
 
-- Can be bullet points
-
+It can be used in a ´Bando´ object, to show detailed informations on the column.
 
 Examples
 --------
 
-This add-on can be seen in action at the following sites:
-- Is there a page on the internet where everybody can see the features?
+This add-on can be seen in action on Camera di commercio di Padova website:
 
+- `A list of bandi`__
 
-Documentation
--------------
-
-Full documentation for end users can be found in the "docs" folder, and is also available online at http://docs.plone.org/foo/bar
+__ https://www.pd.camcom.it/camera-commercio/amministrazione-trasparente/bandi-di-gara-e-contratti
 
 
 Translations
@@ -32,7 +27,7 @@ Translations
 
 This product has been translated into
 
-- Klingon (thanks, K'Plai)
+- Italian
 
 
 Installation
@@ -54,19 +49,32 @@ and then running "bin/buildout"
 Contribute
 ----------
 
-- Issue Tracker: https://github.com/collective/cciaapd.portlet.bandi/issues
-- Source Code: https://github.com/collective/cciaapd.portlet.bandi
-- Documentation: https://docs.plone.org/foo/bar
-
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@example.com
+- Issue Tracker: https://github.com/PloneGov-IT/cciaapd.portlet.bandi/issues
+- Source Code: https://github.com/PloneGov-IT/cciaapd.portlet.bandi
 
 
 License
 -------
 
 The project is licensed under the GPLv2.
+
+Credits
+-------
+
+Developed with the support of `Camera di Commercio di Padova`__;
+Camera di Commercio di Ferrara supports the `PloneGov initiative`__.
+
+.. image:: https://www.pd.camcom.it/logo.png
+   :alt: CCIAA Padova - logo
+
+__ https://www.pd.camcom.it
+__ http://www.plonegov.it/
+
+Authors
+-------
+
+This product was developed by RedTurtle Technology team.
+
+.. image:: http://www.redturtle.it/redturtle_banner.png
+   :alt: RedTurtle Technology Site
+   :target: http://www.redturtle.it/
